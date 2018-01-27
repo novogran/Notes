@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Заметки</string>
+    <string name="menu_item_delete_note">Удалить</string>
+    <string name="note_name">Имя заметки:</string>
+    <string name="note_name_hint">Введите имя</string>
+    <string name="note_text_hint">Введите текст</string>
+    <string name="note_editor">Редактор заметки</string>
+    <string name="none_name">Без названия</string>
+    <string name="none_text">Без текста</string>
+    <string name="note_text">Текст заметки:</string>
+</resources>

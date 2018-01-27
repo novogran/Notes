@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="menu_item_delete_note">Delete</string>
+    <string name="note_name">Note name: </string>
+    <string name="note_name_hint">Enter name</string>
+    <string name="note_text_hint">Enter text</string>
+    <string name="note_editor">Note Editor</string>
+    <string name="none_name">None</string>
+    <string name="none_text">None</string>
+    <string name="note_text">Note text:</string>
+</resources>
